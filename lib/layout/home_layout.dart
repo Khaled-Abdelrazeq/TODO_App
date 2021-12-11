@@ -36,7 +36,7 @@ class HomeLayout extends StatelessWidget {
                 : Container(),
             Padding(
               padding: EdgeInsetsDirectional.only(
-                  start: isDrawerOpened ? 220 : 0,
+                  start: isDrawerOpened ? 213 : 0,
                   top: isDrawerOpened ? 70 : 0,
                   bottom: isDrawerOpened ? 70 : 0,
                   end: 0),
